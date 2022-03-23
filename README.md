@@ -42,7 +42,7 @@ The publicly available MTA turnstile data from September 2021 to December 2021 w
 - Seaborn
 
 
-#### Related works:
+#### Getting ideas from some other related works such as:
 - https://github.com/Anumala89/Citi-Bike-Analysis
 - https://fitriwidyan.medium.com/nyc-citi-bike-trips-data-analysis-a07a1db9c1be
 - https://rpubs.com/Ansh_Ji/citibike

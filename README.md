@@ -10,7 +10,7 @@ The publicly available MTA turnstile data from September 2021 to December 2021 w
 
 - High exit rate during the morning commute hours.
 - High entry rate during the afternoon and evening hours.
- These two criteria would differentiate MTA stations with a high volume of commuter traffic from the other MTA stations.
+ -These two criteria would differentiate MTA stations with a high volume of commuter traffic from the other MTA stations.
 
 ## Goal:
 - What are the busiest stations?

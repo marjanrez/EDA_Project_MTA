@@ -8,8 +8,8 @@ This is the first project for the Metis Data Science Bootcamp, where we perform 
 Criteria for Choosing MTA Commuter Stations
 The publicly available MTA turnstile data from September 2021 to December 2021 was analyzed to determine the top ten stations that would garner the highest advertisement exposure to daily commuters. There were two criteria that were used to pinpoint these particular commuter stations:
 
-- High exit rate during the morning commute hours.
-- High entry rate during the afternoon and evening hours.
+1- High exit rate during the morning commute hours.
+2- High entry rate during the afternoon and evening hours.
  - These two criteria would differentiate MTA stations with a high volume of commuter traffic from the other MTA stations.
 
 ## Goal:

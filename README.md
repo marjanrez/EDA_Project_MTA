@@ -40,3 +40,11 @@ The publicly available MTA turnstile data from September 2021 to December 2021 w
 #### Presentation tools:
 - Matplotlib
 - Seaborn
+
+
+- Related work:
+https://github.com/Anumala89/Citi-Bike-Analysis
+https://fitriwidyan.medium.com/nyc-citi-bike-trips-data-analysis-a07a1db9c1be
+https://rpubs.com/Ansh_Ji/citibike
+https://github.com/maxmelnick/mta_subway_analysis/blob/master/mta_subway_analysis.ipynb
+https://par.nsf.gov/servlets/purl/10113034

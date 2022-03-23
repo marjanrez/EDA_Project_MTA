@@ -25,3 +25,13 @@ The publicly available MTA turnstile data from September 2021 to December 2021 w
 - High entry rate for top 10 busiest MTA stations in the afternoon or evening
 - Finding the top 10 busiest citibike stations
 - Identifying the busiest hours of citibike stations.
+
+## The Methods and Tools:
+- Data ingestion and storage:
+Pandas
+SQLite
+- Data cleaning and manipulation:
+Python Libraries: Pandas, Numpy
+- Presentation tools:
+Matplotlib
+Seaborn

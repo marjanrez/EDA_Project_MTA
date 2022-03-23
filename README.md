@@ -27,11 +27,11 @@ The publicly available MTA turnstile data from September 2021 to December 2021 w
 - Identifying the busiest hours of citibike stations.
 
 ## The Methods and Tools:
-- Data ingestion and storage:
-Pandas
-SQLite
-- Data cleaning and manipulation:
-Python Libraries: Pandas, Numpy
-- Presentation tools:
-Matplotlib
-Seaborn
+#### Data ingestion and storage:
+- Pandas
+- SQLite
+#### Data cleaning and manipulation:
+- Python Libraries: Pandas, Numpy
+#### Presentation tools:
+- Matplotlib
+- Seaborn

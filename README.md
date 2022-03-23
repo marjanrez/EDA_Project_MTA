@@ -26,6 +26,11 @@ The publicly available MTA turnstile data from September 2021 to December 2021 w
 - Finding the top 10 busiest citibike stations
 - Identifying the busiest hours of citibike stations.
 
+## Outcome:
+- Post advertisements in high traffic MTA stations
+- Encourage purchases through push notifications with discounts for citibike stations at peak hours
+
+
 ## The Methods and Tools:
 #### Data ingestion and storage:
 - Pandas
